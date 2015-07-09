@@ -2154,3 +2154,4 @@ layer {
   bottom: "loss3/classifier"
   top: "prob"
 }
+force_backward: true
